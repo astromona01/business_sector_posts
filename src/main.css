@@ -1,0 +1,36 @@
+.main {
+		padding: 0 78px;
+}
+.pagination-btns {
+		display: flex;
+		justify-content: space-between;
+}
+.pagination-btns button {
+		width: 30%;
+}
+.pagination-btns ul {
+		margin: 0;
+}
+.searched {
+		background-color: yellow;
+}
+table {
+		margin-top: 15px;
+}
+thead {
+		background: #474955;
+		color: #fff;
+		height: 54px;
+		text-align: center;
+		vertical-align: middle !important;
+}
+thead th {
+		cursor: pointer;
+}
+thead th:first-child {
+		width: 115px;
+}
+thead img {
+		margin-left: 35px;
+		margin-right: 22px;
+}

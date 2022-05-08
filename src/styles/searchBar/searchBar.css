@@ -1,0 +1,18 @@
+.input-wrapper {
+  background-color: #5A5C66;
+  padding: 0 26px;
+  width: 60%;
+}
+.input-wrapper input {
+  background: inherit;
+  border: none;
+  margin-right: 15px;
+  color: #fff;
+}
+.input-wrapper input:focus {
+  background: inherit;
+  outline: none;
+  box-shadow: none;
+}
+
+/*# sourceMappingURL=searchBar.css.map */

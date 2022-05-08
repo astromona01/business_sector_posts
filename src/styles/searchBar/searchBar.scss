@@ -1,0 +1,16 @@
+.input-wrapper {
+  background-color: #5A5C66;
+  padding: 0 26px;
+  width: 60%;
+  & input {
+    background: inherit;
+    border: none;
+    margin-right: 15px;
+    color: #fff;
+    &:focus {
+      background: inherit;
+      outline: none;
+      box-shadow: none;
+    }
+  }
+}
