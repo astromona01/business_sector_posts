@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/business_sector_posts/static/css/main.b80b42a7.css",
+    "main.js": "/business_sector_posts/static/js/main.7074da26.js",
+    "static/media/search.svg": "/business_sector_posts/static/media/search.42a69f6c4dc27bbf7c00efe96314acef.svg",
+    "index.html": "/business_sector_posts/index.html",
+    "static/media/arrow_bottom.svg": "/business_sector_posts/static/media/arrow_bottom.4320ae5d44313dde36c3d34278b180ec.svg",
+    "main.b80b42a7.css.map": "/business_sector_posts/static/css/main.b80b42a7.css.map",
+    "main.7074da26.js.map": "/business_sector_posts/static/js/main.7074da26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b80b42a7.css",
+    "static/js/main.7074da26.js"
+  ]
+}
