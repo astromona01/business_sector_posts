@@ -1,6 +1,6 @@
 import {useDispatch, useSelector} from "react-redux";
 import {Table} from "react-bootstrap";
-import {Fragment, useEffect, useState} from "react";
+import {Fragment, useEffect } from "react";
 import {fetchPosts} from "../http/postsApi";
 import {savePosts} from "../reducers/postsSlice";
 import TableHead from "./TableHead";
